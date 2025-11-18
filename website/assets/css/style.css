@@ -1,3 +1,29 @@
 body{
     background: #BDBDBD;
 }
+
+/* .card {
+    width: 700px;
+    height: 700px;
+}  */
+
+.imgContainer {
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+} 
+
+.imgContainer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+/* .imgSize {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}  */
+
+
